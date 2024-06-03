@@ -2,11 +2,18 @@
 {
   public static class SortingAlgorithms
   {
+    /// <summary>
+    /// Sorts an array using the Bubble Sort algorithm.
+    /// </summary>
+    /// <typeparam name="T">The type of elements in the array, which must implement IComparable<T>.</typeparam>
+    /// <param name="array">The array to be sorted.</param>
+    /// <precondition>The input array must not be null.</precondition>
+    /// <postcondition>The elements in the input array will be sorted in ascending order.</postcondition>
     public static void BubbleSort<T>(T[] array) where T : IComparable<T>
     {
       bool swapped;
       int n = array.Length;
-
+      
       // Outer loop for passes
       for (int i = 0; i < n - 1; i++)
       {
@@ -39,6 +46,7 @@
     {
       int[] intArray = [5, 3, 8, 4, 2];
       string[] stringArray = ["apple", "orange", "banana", "pear"];
+      int[] intTwoArray = [];
 
       Console.WriteLine("Before sorting:");
       Console.WriteLine(string.Join(", ", intArray));
@@ -46,6 +54,7 @@
 
       SortingAlgorithms.BubbleSort(intArray);
       SortingAlgorithms.BubbleSort(stringArray);
+      SortingAlgorithms.BubbleSort(intTwoArray);
 
       Console.WriteLine("After sorting:");
       Console.WriteLine(string.Join(", ", intArray));
