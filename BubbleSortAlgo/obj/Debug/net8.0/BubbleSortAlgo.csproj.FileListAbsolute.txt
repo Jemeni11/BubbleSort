@@ -1,0 +1,30 @@
+C:\Users\PC\Documents\School\2nd Semester\CSC 322 [E] [A Modern Programming Language]\Assignments\BubbleSortAlgo\BubbleSortAlgo\bin\Debug\net8.0\BubbleSortAlgo.exe
+C:\Users\PC\Documents\School\2nd Semester\CSC 322 [E] [A Modern Programming Language]\Assignments\BubbleSortAlgo\BubbleSortAlgo\bin\Debug\net8.0\BubbleSortAlgo.deps.json
+C:\Users\PC\Documents\School\2nd Semester\CSC 322 [E] [A Modern Programming Language]\Assignments\BubbleSortAlgo\BubbleSortAlgo\bin\Debug\net8.0\BubbleSortAlgo.runtimeconfig.json
+C:\Users\PC\Documents\School\2nd Semester\CSC 322 [E] [A Modern Programming Language]\Assignments\BubbleSortAlgo\BubbleSortAlgo\bin\Debug\net8.0\BubbleSortAlgo.dll
+C:\Users\PC\Documents\School\2nd Semester\CSC 322 [E] [A Modern Programming Language]\Assignments\BubbleSortAlgo\BubbleSortAlgo\bin\Debug\net8.0\BubbleSortAlgo.pdb
+C:\Users\PC\Documents\School\2nd Semester\CSC 322 [E] [A Modern Programming Language]\Assignments\BubbleSortAlgo\BubbleSortAlgo\obj\Debug\net8.0\BubbleSortAlgo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Documents\School\2nd Semester\CSC 322 [E] [A Modern Programming Language]\Assignments\BubbleSortAlgo\BubbleSortAlgo\obj\Debug\net8.0\BubbleSortAlgo.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\School\2nd Semester\CSC 322 [E] [A Modern Programming Language]\Assignments\BubbleSortAlgo\BubbleSortAlgo\obj\Debug\net8.0\BubbleSortAlgo.AssemblyInfo.cs
+C:\Users\PC\Documents\School\2nd Semester\CSC 322 [E] [A Modern Programming Language]\Assignments\BubbleSortAlgo\BubbleSortAlgo\obj\Debug\net8.0\BubbleSortAlgo.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\School\2nd Semester\CSC 322 [E] [A Modern Programming Language]\Assignments\BubbleSortAlgo\BubbleSortAlgo\obj\Debug\net8.0\BubbleSortAlgo.sourcelink.json
+C:\Users\PC\Documents\School\2nd Semester\CSC 322 [E] [A Modern Programming Language]\Assignments\BubbleSortAlgo\BubbleSortAlgo\obj\Debug\net8.0\BubbleSortAlgo.dll
+C:\Users\PC\Documents\School\2nd Semester\CSC 322 [E] [A Modern Programming Language]\Assignments\BubbleSortAlgo\BubbleSortAlgo\obj\Debug\net8.0\refint\BubbleSortAlgo.dll
+C:\Users\PC\Documents\School\2nd Semester\CSC 322 [E] [A Modern Programming Language]\Assignments\BubbleSortAlgo\BubbleSortAlgo\obj\Debug\net8.0\BubbleSortAlgo.pdb
+C:\Users\PC\Documents\School\2nd Semester\CSC 322 [E] [A Modern Programming Language]\Assignments\BubbleSortAlgo\BubbleSortAlgo\obj\Debug\net8.0\BubbleSortAlgo.genruntimeconfig.cache
+C:\Users\PC\Documents\School\2nd Semester\CSC 322 [E] [A Modern Programming Language]\Assignments\BubbleSortAlgo\BubbleSortAlgo\obj\Debug\net8.0\ref\BubbleSortAlgo.dll
+C:\Users\PC\Documents\School\2nd Semester\5. CSC 322 [E] [A Modern Programming Language]\Assignments\BubbleSortAlgo\BubbleSortAlgo\bin\Debug\net8.0\BubbleSortAlgo.exe
+C:\Users\PC\Documents\School\2nd Semester\5. CSC 322 [E] [A Modern Programming Language]\Assignments\BubbleSortAlgo\BubbleSortAlgo\bin\Debug\net8.0\BubbleSortAlgo.deps.json
+C:\Users\PC\Documents\School\2nd Semester\5. CSC 322 [E] [A Modern Programming Language]\Assignments\BubbleSortAlgo\BubbleSortAlgo\bin\Debug\net8.0\BubbleSortAlgo.runtimeconfig.json
+C:\Users\PC\Documents\School\2nd Semester\5. CSC 322 [E] [A Modern Programming Language]\Assignments\BubbleSortAlgo\BubbleSortAlgo\bin\Debug\net8.0\BubbleSortAlgo.dll
+C:\Users\PC\Documents\School\2nd Semester\5. CSC 322 [E] [A Modern Programming Language]\Assignments\BubbleSortAlgo\BubbleSortAlgo\bin\Debug\net8.0\BubbleSortAlgo.pdb
+C:\Users\PC\Documents\School\2nd Semester\5. CSC 322 [E] [A Modern Programming Language]\Assignments\BubbleSortAlgo\BubbleSortAlgo\obj\Debug\net8.0\BubbleSortAlgo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Documents\School\2nd Semester\5. CSC 322 [E] [A Modern Programming Language]\Assignments\BubbleSortAlgo\BubbleSortAlgo\obj\Debug\net8.0\BubbleSortAlgo.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\School\2nd Semester\5. CSC 322 [E] [A Modern Programming Language]\Assignments\BubbleSortAlgo\BubbleSortAlgo\obj\Debug\net8.0\BubbleSortAlgo.AssemblyInfo.cs
+C:\Users\PC\Documents\School\2nd Semester\5. CSC 322 [E] [A Modern Programming Language]\Assignments\BubbleSortAlgo\BubbleSortAlgo\obj\Debug\net8.0\BubbleSortAlgo.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\School\2nd Semester\5. CSC 322 [E] [A Modern Programming Language]\Assignments\BubbleSortAlgo\BubbleSortAlgo\obj\Debug\net8.0\BubbleSortAlgo.sourcelink.json
+C:\Users\PC\Documents\School\2nd Semester\5. CSC 322 [E] [A Modern Programming Language]\Assignments\BubbleSortAlgo\BubbleSortAlgo\obj\Debug\net8.0\BubbleSortAlgo.dll
+C:\Users\PC\Documents\School\2nd Semester\5. CSC 322 [E] [A Modern Programming Language]\Assignments\BubbleSortAlgo\BubbleSortAlgo\obj\Debug\net8.0\refint\BubbleSortAlgo.dll
+C:\Users\PC\Documents\School\2nd Semester\5. CSC 322 [E] [A Modern Programming Language]\Assignments\BubbleSortAlgo\BubbleSortAlgo\obj\Debug\net8.0\BubbleSortAlgo.pdb
+C:\Users\PC\Documents\School\2nd Semester\5. CSC 322 [E] [A Modern Programming Language]\Assignments\BubbleSortAlgo\BubbleSortAlgo\obj\Debug\net8.0\BubbleSortAlgo.genruntimeconfig.cache
+C:\Users\PC\Documents\School\2nd Semester\5. CSC 322 [E] [A Modern Programming Language]\Assignments\BubbleSortAlgo\BubbleSortAlgo\obj\Debug\net8.0\ref\BubbleSortAlgo.dll
